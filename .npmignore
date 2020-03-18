@@ -1,0 +1,11 @@
+# shouldnt this be src?
+dist
+demo
+.babelrc
+.gitignore
+.prettierrc
+.eslintignore
+.eslintrc.js
+.editorconfig
+rollup.config.js
+tsconfig.json
