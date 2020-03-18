@@ -1,4 +1,4 @@
-dist # shouldnt this be src
+dist
 demo
 .babelrc
 .gitignore
