@@ -1,9 +1,0 @@
-# third party
-node_modules
-
-# build output
-dist
-
-demo
-
-rollup.config.js

@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-interface TestProps {
+export interface TestProps {
   text: string;
 }
 

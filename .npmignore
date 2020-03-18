@@ -1,11 +1,8 @@
-# shouldnt this be src?
-dist
+dist # shouldnt this be src
 demo
 .babelrc
 .gitignore
 .prettierrc
-.eslintignore
-.eslintrc.js
 .editorconfig
 rollup.config.js
 tsconfig.json
